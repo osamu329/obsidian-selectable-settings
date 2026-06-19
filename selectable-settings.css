@@ -1,0 +1,5 @@
+.setting-item-name,
+.setting-item-description,
+.modal-container .setting-item * {
+    user-select: text;
+}
